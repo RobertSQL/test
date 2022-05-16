@@ -1,4 +1,2 @@
 Hello
 Word
-proverka
-proverka2
