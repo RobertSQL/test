@@ -1,4 +1,7 @@
 Hello
 Word!!!
+<<<<<<< Updated upstream
 KROOD
 descripion
+=======
+>>>>>>> Stashed changes
